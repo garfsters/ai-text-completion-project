@@ -13,7 +13,7 @@ Original file is located at
 !pip install cohere
 
 from cohere import ClientV2
-API_KEY = ""
+API_KEY = "<YOUR API KEY>"
 
 client = ClientV2(api_key=API_KEY)
 client.chat_stream(
