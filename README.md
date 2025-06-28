@@ -38,7 +38,7 @@ This is a simple Python-based text completion application that uses Cohere’s G
     - Copy your API key from the dashboard under your account’s API Keys section.
 
 2. **Add your API key to the script:**
-    - Open `text_completion_app.py` and replace `"YOUR_API_KEY"` with your actual API key.
+    - Open `text_completion_app.py` and replace `"<YOUR_API_KEY>"` with your actual API key.
     - Or set an environment variable and load it in Python for more security.
 
 ## Usage
